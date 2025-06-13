@@ -1,0 +1,24 @@
+{
+    "DEVICE": [
+        {
+            "DEV_TYPE": "DEV",
+            "IS_SERVER": false,
+            "DEV_ID": "DEV_0",
+            "MAPPED_TO_DEV_OR_SERVER": "",
+            "CLIENT_ID": "TEST_CLIENT_DEV_0",
+            "ENDPOINT": "localhost",
+            "PORT": 1883,
+            "CONNECTION_METHOD": 0,
+            "PUBLISH_TOPIC": "DEV/DEV_0/FROM",
+            "SUBSCRIBE_TOPIC": "DEV/DEV_0/TO",
+            "USERNAME": "",
+            "PASSWORD": "",
+            "CERT_DIR": "",
+            "CA_CERT": "",
+            "CLIENT_CERT": "",
+            "CLIENT_KEY": "",
+            "ACCESS_TOKEN": "",
+            "STATUS": true
+        }
+    ]
+}
